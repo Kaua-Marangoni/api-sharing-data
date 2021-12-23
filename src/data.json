@@ -1,7 +1,6 @@
 [
 	{
 		"nome": "Márcio Paulo Carlos Eduardo Teixeira",
-		"idade": 80,
 		"cpf": "397.905.669-48",
 		"rg": "24.221.199-9",
 		"data_nasc": "22\/02\/1941",
@@ -26,7 +25,6 @@
 	},
 	{
 		"nome": "Oliver Elias Lucca da Conceição",
-		"idade": 32,
 		"cpf": "257.203.781-54",
 		"rg": "16.825.446-3",
 		"data_nasc": "01\/03\/1989",
@@ -51,7 +49,6 @@
 	},
 	{
 		"nome": "Lívia Yasmin da Cruz",
-		"idade": 77,
 		"cpf": "506.839.983-31",
 		"rg": "23.131.589-2",
 		"data_nasc": "08\/01\/1944",
@@ -76,7 +73,6 @@
 	},
 	{
 		"nome": "Matheus Sérgio Brito",
-		"idade": 80,
 		"cpf": "871.680.719-71",
 		"rg": "42.009.866-5",
 		"data_nasc": "14\/10\/1941",
@@ -101,7 +97,6 @@
 	},
 	{
 		"nome": "Henry Lorenzo Alves",
-		"idade": 64,
 		"cpf": "586.201.078-52",
 		"rg": "37.292.726-9",
 		"data_nasc": "27\/05\/1957",
@@ -126,7 +121,6 @@
 	},
 	{
 		"nome": "Geraldo João Bento Figueiredo",
-		"idade": 63,
 		"cpf": "820.283.262-47",
 		"rg": "36.074.086-8",
 		"data_nasc": "01\/03\/1958",
@@ -151,7 +145,6 @@
 	},
 	{
 		"nome": "Camila Antônia Aline da Mata",
-		"idade": 33,
 		"cpf": "727.356.979-83",
 		"rg": "27.787.422-1",
 		"data_nasc": "05\/01\/1988",
@@ -176,7 +169,6 @@
 	},
 	{
 		"nome": "Lorenzo Isaac Aparício",
-		"idade": 75,
 		"cpf": "543.180.548-70",
 		"rg": "33.819.960-3",
 		"data_nasc": "19\/06\/1946",
@@ -201,7 +193,6 @@
 	},
 	{
 		"nome": "Cauê Luiz Vicente Lima",
-		"idade": 47,
 		"cpf": "025.268.539-31",
 		"rg": "40.461.564-8",
 		"data_nasc": "17\/01\/1974",
@@ -226,7 +217,6 @@
 	},
 	{
 		"nome": "Rayssa Sebastiana Raimunda da Rocha",
-		"idade": 75,
 		"cpf": "351.663.803-63",
 		"rg": "17.481.468-9",
 		"data_nasc": "26\/09\/1946",
@@ -251,7 +241,6 @@
 	},
 	{
 		"nome": "Filipe Lucca Aparício",
-		"idade": 56,
 		"cpf": "487.250.022-95",
 		"rg": "38.878.505-6",
 		"data_nasc": "13\/02\/1965",
@@ -276,7 +265,6 @@
 	},
 	{
 		"nome": "Luiz Bento Benjamin de Paula",
-		"idade": 22,
 		"cpf": "745.873.259-88",
 		"rg": "39.692.518-2",
 		"data_nasc": "14\/12\/1999",
@@ -301,7 +289,6 @@
 	},
 	{
 		"nome": "Daniel Diego Novaes",
-		"idade": 76,
 		"cpf": "532.393.099-39",
 		"rg": "31.730.940-7",
 		"data_nasc": "05\/04\/1945",
@@ -326,7 +313,6 @@
 	},
 	{
 		"nome": "Danilo Pietro Felipe Corte Real",
-		"idade": 24,
 		"cpf": "373.288.271-30",
 		"rg": "27.089.687-9",
 		"data_nasc": "02\/09\/1997",
@@ -351,7 +337,6 @@
 	},
 	{
 		"nome": "Bento Luiz Rocha",
-		"idade": 56,
 		"cpf": "521.501.147-80",
 		"rg": "45.279.192-3",
 		"data_nasc": "17\/09\/1965",
@@ -376,7 +361,6 @@
 	},
 	{
 		"nome": "Thales Sérgio Brito",
-		"idade": 56,
 		"cpf": "011.619.389-15",
 		"rg": "32.707.053-5",
 		"data_nasc": "02\/09\/1965",
@@ -401,7 +385,6 @@
 	},
 	{
 		"nome": "Sérgio Giovanni Leandro Barros",
-		"idade": 52,
 		"cpf": "648.653.966-67",
 		"rg": "12.733.950-4",
 		"data_nasc": "15\/11\/1969",
@@ -426,7 +409,6 @@
 	},
 	{
 		"nome": "Sophia Rosa Barros",
-		"idade": 61,
 		"cpf": "528.569.311-03",
 		"rg": "42.110.999-3",
 		"data_nasc": "13\/04\/1960",
@@ -451,7 +433,6 @@
 	},
 	{
 		"nome": "Sebastião Breno Murilo Carvalho",
-		"idade": 33,
 		"cpf": "773.223.027-29",
 		"rg": "25.720.752-1",
 		"data_nasc": "10\/01\/1988",
@@ -476,7 +457,6 @@
 	},
 	{
 		"nome": "Rebeca Hadassa Novaes",
-		"idade": 28,
 		"cpf": "862.257.829-15",
 		"rg": "41.114.460-1",
 		"data_nasc": "27\/08\/1993",
@@ -501,7 +481,6 @@
 	},
 	{
 		"nome": "Alessandra Isabela Pires",
-		"idade": 63,
 		"cpf": "365.063.003-61",
 		"rg": "41.155.509-1",
 		"data_nasc": "02\/12\/1958",
@@ -526,7 +505,6 @@
 	},
 	{
 		"nome": "Enrico Jorge Moura",
-		"idade": 48,
 		"cpf": "472.109.384-51",
 		"rg": "23.961.520-7",
 		"data_nasc": "08\/05\/1973",
@@ -551,7 +529,6 @@
 	},
 	{
 		"nome": "Isabela Camila Ayla Barbosa",
-		"idade": 69,
 		"cpf": "522.378.585-19",
 		"rg": "25.132.419-9",
 		"data_nasc": "26\/05\/1952",
@@ -576,7 +553,6 @@
 	},
 	{
 		"nome": "Lúcia Lívia Sandra Martins",
-		"idade": 65,
 		"cpf": "745.419.337-48",
 		"rg": "33.926.265-5",
 		"data_nasc": "18\/11\/1956",
@@ -601,7 +577,6 @@
 	},
 	{
 		"nome": "Mariana Tânia Araújo",
-		"idade": 72,
 		"cpf": "410.072.441-19",
 		"rg": "10.890.419-2",
 		"data_nasc": "12\/11\/1949",
@@ -626,7 +601,6 @@
 	},
 	{
 		"nome": "Alexandre Caio Sebastião da Conceição",
-		"idade": 38,
 		"cpf": "757.935.848-46",
 		"rg": "19.736.239-4",
 		"data_nasc": "02\/06\/1983",
@@ -651,7 +625,6 @@
 	},
 	{
 		"nome": "Elaine Daiane Brito",
-		"idade": 30,
 		"cpf": "299.633.092-75",
 		"rg": "29.303.824-7",
 		"data_nasc": "17\/05\/1991",
@@ -676,7 +649,6 @@
 	},
 	{
 		"nome": "Levi Thomas Paulo Cardoso",
-		"idade": 27,
 		"cpf": "897.197.798-10",
 		"rg": "23.077.219-5",
 		"data_nasc": "03\/08\/1994",
@@ -701,7 +673,6 @@
 	},
 	{
 		"nome": "Fabiana Milena Cavalcanti",
-		"idade": 50,
 		"cpf": "729.624.415-13",
 		"rg": "23.063.463-1",
 		"data_nasc": "27\/09\/1971",
@@ -726,7 +697,6 @@
 	},
 	{
 		"nome": "Pietro Gael Campos",
-		"idade": 65,
 		"cpf": "853.495.001-63",
 		"rg": "24.513.809-2",
 		"data_nasc": "15\/03\/1956",
@@ -751,7 +721,6 @@
 	},
 	{
 		"nome": "Nina Clara Raimunda Pinto",
-		"idade": 45,
 		"cpf": "951.406.518-23",
 		"rg": "15.433.857-6",
 		"data_nasc": "24\/04\/1976",
@@ -776,7 +745,6 @@
 	},
 	{
 		"nome": "Helena Beatriz Bernardes",
-		"idade": 28,
 		"cpf": "071.111.248-71",
 		"rg": "15.643.058-7",
 		"data_nasc": "23\/05\/1993",
@@ -801,7 +769,6 @@
 	},
 	{
 		"nome": "Emanuel Diego Lucas Monteiro",
-		"idade": 48,
 		"cpf": "927.792.770-41",
 		"rg": "25.617.657-7",
 		"data_nasc": "20\/12\/1973",
@@ -826,7 +793,6 @@
 	},
 	{
 		"nome": "Márcio Enzo Renan Moreira",
-		"idade": 34,
 		"cpf": "708.429.040-00",
 		"rg": "15.634.544-4",
 		"data_nasc": "18\/11\/1987",
@@ -851,7 +817,6 @@
 	},
 	{
 		"nome": "Isabel Sophia Luana Moraes",
-		"idade": 34,
 		"cpf": "537.015.526-73",
 		"rg": "40.558.633-4",
 		"data_nasc": "10\/06\/1987",
@@ -876,7 +841,6 @@
 	},
 	{
 		"nome": "Miguel Raimundo Pietro Peixoto",
-		"idade": 56,
 		"cpf": "134.857.307-42",
 		"rg": "35.198.217-6",
 		"data_nasc": "12\/12\/1965",
@@ -901,7 +865,6 @@
 	},
 	{
 		"nome": "Renan Arthur dos Santos",
-		"idade": 79,
 		"cpf": "314.474.368-22",
 		"rg": "11.781.573-1",
 		"data_nasc": "11\/10\/1942",
@@ -926,7 +889,6 @@
 	},
 	{
 		"nome": "Carolina Eduarda da Mata",
-		"idade": 31,
 		"cpf": "884.888.938-76",
 		"rg": "14.308.015-5",
 		"data_nasc": "23\/05\/1990",
@@ -951,7 +913,6 @@
 	},
 	{
 		"nome": "Marcela Laís Castro",
-		"idade": 78,
 		"cpf": "533.935.790-29",
 		"rg": "30.353.357-2",
 		"data_nasc": "12\/05\/1943",
@@ -976,7 +937,6 @@
 	},
 	{
 		"nome": "Cristiane Clarice Eduarda da Cunha",
-		"idade": 80,
 		"cpf": "859.262.027-95",
 		"rg": "12.314.499-1",
 		"data_nasc": "07\/10\/1941",
@@ -1001,7 +961,6 @@
 	},
 	{
 		"nome": "Isaac Raimundo Porto",
-		"idade": 71,
 		"cpf": "198.320.385-88",
 		"rg": "50.336.623-7",
 		"data_nasc": "23\/11\/1950",
@@ -1026,7 +985,6 @@
 	},
 	{
 		"nome": "Joana Valentina Almada",
-		"idade": 65,
 		"cpf": "420.950.954-05",
 		"rg": "28.686.911-1",
 		"data_nasc": "03\/04\/1956",
@@ -1051,7 +1009,6 @@
 	},
 	{
 		"nome": "Otávio Benedito Theo da Cruz",
-		"idade": 35,
 		"cpf": "447.233.383-06",
 		"rg": "20.864.573-1",
 		"data_nasc": "03\/07\/1986",
@@ -1076,7 +1033,6 @@
 	},
 	{
 		"nome": "Heloise Maria Fátima Campos",
-		"idade": 53,
 		"cpf": "379.223.048-89",
 		"rg": "44.067.809-2",
 		"data_nasc": "25\/05\/1968",
@@ -1101,7 +1057,6 @@
 	},
 	{
 		"nome": "Vicente Lorenzo Lopes",
-		"idade": 30,
 		"cpf": "561.810.104-16",
 		"rg": "16.813.991-1",
 		"data_nasc": "23\/12\/1991",
@@ -1126,7 +1081,6 @@
 	},
 	{
 		"nome": "Thomas Elias Bryan Cardoso",
-		"idade": 26,
 		"cpf": "221.320.386-51",
 		"rg": "30.847.212-3",
 		"data_nasc": "02\/05\/1995",
@@ -1151,7 +1105,6 @@
 	},
 	{
 		"nome": "Lorena Isabelly Martins",
-		"idade": 31,
 		"cpf": "816.661.740-41",
 		"rg": "48.697.131-4",
 		"data_nasc": "09\/07\/1990",
@@ -1176,7 +1129,6 @@
 	},
 	{
 		"nome": "Tânia Julia Amanda Moreira",
-		"idade": 60,
 		"cpf": "119.461.894-48",
 		"rg": "14.076.935-3",
 		"data_nasc": "09\/06\/1961",
@@ -1201,7 +1153,6 @@
 	},
 	{
 		"nome": "Analu Marina Brito",
-		"idade": 61,
 		"cpf": "229.942.326-50",
 		"rg": "33.246.294-8",
 		"data_nasc": "26\/06\/1960",
@@ -1226,7 +1177,6 @@
 	},
 	{
 		"nome": "Pedro Martin Sebastião Melo",
-		"idade": 64,
 		"cpf": "332.582.120-07",
 		"rg": "16.827.079-1",
 		"data_nasc": "05\/12\/1957",
@@ -1251,7 +1201,6 @@
 	},
 	{
 		"nome": "Vera Aparecida Cardoso",
-		"idade": 67,
 		"cpf": "624.020.119-71",
 		"rg": "14.418.142-3",
 		"data_nasc": "21\/10\/1954",
@@ -1276,7 +1225,6 @@
 	},
 	{
 		"nome": "Rebeca Daiane Freitas",
-		"idade": 74,
 		"cpf": "803.885.161-78",
 		"rg": "10.057.990-5",
 		"data_nasc": "14\/09\/1947",
@@ -1301,7 +1249,6 @@
 	},
 	{
 		"nome": "Marcela Jéssica Caldeira",
-		"idade": 34,
 		"cpf": "034.115.405-91",
 		"rg": "45.815.503-2",
 		"data_nasc": "04\/07\/1987",
